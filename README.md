@@ -20,10 +20,5 @@ The project was ideated and developed during **ENVISION** conducted by **IIC LIC
 - **HTML/CSS/JavaScript** – Frontend interface
 - **Bootstrap** – UI styling
 
-CALL-ME-MANI/
-├── static/               # CSS and static assets
-├── templates/            # HTML templates
-├── app.py                # Main Flask application
-├── requirements.txt      # Python dependencies
-├── .env                  # API key (not tracked in Git)
+
 
